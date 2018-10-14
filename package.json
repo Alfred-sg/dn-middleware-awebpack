@@ -13,6 +13,6 @@
     "globby": "^8.0.1",
     "ntils": "^4.0.4",
     "webpack": "^4.20.2",
-    "webpackrc-cfg": "^1.0.10"
+    "webpackrc-cfg": "^1.0.11"
   }
 }
